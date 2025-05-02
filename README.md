@@ -3,7 +3,7 @@
 Configuraciones de ambiente para el servicio mscv-items usando spring-actuator.
 
 
-# Comandos Docker para levantar el contenedor de msvc-products
+# Comandos Docker para levantar el contenedor de config-server
 
 ```bash
 # Limpiar, generar Jar file
